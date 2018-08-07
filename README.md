@@ -1,2 +1,2 @@
 # python_exercise
-Jsut some scribbles for last year
+Just some scribbles from last year
